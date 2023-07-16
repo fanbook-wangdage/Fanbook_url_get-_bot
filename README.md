@@ -9,3 +9,4 @@ Fanbook文件链接获取机器人，针对手机端无法获取文件链接的�
 lingpai='0f2de7ac66727cd9fcec1ee43559c561f6abf3f1e202c5a06c2ae4a3f6cf94ab795f14388d1c'
 ```
 运行即可
+了解更多或者免费帮忙打包：https://fanbook.mobi/LmgLJF3N

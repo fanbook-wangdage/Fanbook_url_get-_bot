@@ -14,7 +14,7 @@ from pygments.formatters import TerminalFormatter
 
 null=None
 false=False
-lingpai='0f2de7ac66727cd9fcec1ee43559c561f6abf3f1e202c5a06c2ae4a3f6cf94ab795fbfbe39ad311a18ad1ff314388d1c'
+lingpai='0f2de7ac66727cd9fcec1ee43559c561f6abf3f1e202c5a06c2ae4a3f6cf94ab795fbfd311a18ad1ff314388d1c'
 si=['目前只支持图片、视频、文件，支持类型以外可能会导致获取错误','体验机器人、网站、软件，欢迎加入服务器：https://fanbook.mobi/LmgLJF3N ','如遇到消息没有正常显示或者没有反应，可稍等重试\n此服务仅在中午以后，晚上10点以前可用，如果仍然不能使用，请私信:${@!389320179948986368}','如获取不成功，可尝试更换文件','手动获取图片链接:https://fanbookwdg3.zmidc.eu.org/']
 data_queue = queue.Queue()
 sc=0
